@@ -1,0 +1,121 @@
+body {
+  max-width: 1350px;
+  margin: auto;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  background-color: white;
+}
+
+.container-fluid {
+  padding: 0% 0%;
+}
+
+/* Navigation Bars */
+.navbar {
+  font-size: 20px;
+  margin: auto;
+  text-align: right;
+}
+
+.btn {
+  font-size: 1.5rem;
+  font-weight: 900;
+  line-height: 1;
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.navbar-brand {
+  font-size: 60px;
+  font-weight: 900;
+  margin: auto;
+  font-family: 'Titillium', sans-serif;
+}
+
+.nav-item {
+  margin: 0.1px 5px 0.1px 5px;
+}
+
+.nav-link {
+  font-weight: bold;
+  font-family: 'Montserrat';
+  font-size: 1.2rem;
+}
+
+/* Title Body */
+
+.carousel-item {
+  padding: 0px;
+}
+
+.coverphoto {
+  display: block;
+  width: 100%;
+}
+
+#title1 {
+  margin: auto;
+  text-align: left;
+}
+
+
+/* Products */
+#products {
+  color: #f7f7f7;
+  height: 350px;
+  padding-top: 25px;
+  margin: auto;
+  background-color: #f0ad4e;
+}
+
+#products h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 2rem;
+  padding-bottom: 10px;
+}
+
+#products p {
+  padding-top: 20px;
+}
+
+#products img {
+  width: 40%;
+  border-radius: 25%;
+  margin-bottom: 25px;
+}
+
+/* Who we are */
+
+#whoWeare {
+  margin-right: 50px;
+  margin-left: 50px;
+  margin-top: 100px;
+}
+.card-header {
+  font-family: 'Titillium', sans-serif;
+  font-weight: 900;
+}
+
+.pricing-header {
+  line-height: 2;
+}
+
+/* footer */
+#footer {
+  padding: 2% 10% 5%;
+  height: 100px;
+  background-color: #f0ad4e;
+  color: #f7f7f7;
+}
+
+#footer span {
+  padding: auto;
+}
+
+.footer-logo {
+  margin: 0.1px 10px 0.1px;
+  width: 15px;
+  color: #f7f7f7;
+}
